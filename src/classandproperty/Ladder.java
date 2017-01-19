@@ -1,4 +1,4 @@
-package ClassAndProperty;
+package classandproperty;
 
 /**
  * Created by Cavan on 2017/1/19.

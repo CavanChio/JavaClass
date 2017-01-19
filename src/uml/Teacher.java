@@ -1,9 +1,9 @@
-package UML;
+package uml;
 
 /**
  * Created by Cavan on 2017/1/19.
  */
-public class Student {
+public class Teacher {
     Person person;
-    Teacher teacher;
+    Student student;
 }

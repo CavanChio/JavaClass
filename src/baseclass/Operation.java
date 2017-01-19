@@ -1,4 +1,4 @@
-package BaseClass;
+package baseclass;
 
 /**
  * Created by Cavan on 2017/1/18.
@@ -41,7 +41,7 @@ public class Operation {
     }
 
     //最小公倍数
-    int getLcmDivision(int m, int n) {
+    public int getLcmDivision(int m, int n) {
         int number = getFDivision(m, n);
         int num = m * n / number;
         return num;

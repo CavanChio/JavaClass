@@ -1,4 +1,4 @@
-package BaseClass;
+package baseclass;
 
 /**
  * Created by Cavan on 2017/1/18.

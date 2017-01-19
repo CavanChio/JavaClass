@@ -1,6 +1,6 @@
-package BaseClass;
+package baseclass;
 
-import ClassAndProperty.Ladder;
+import classandproperty.Ladder;
 
 /**
  * Created by Cavan on 2017/1/18.
