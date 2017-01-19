@@ -46,4 +46,5 @@ public class Operation {
         int num = m * n / number;
         return num;
     }
+
 }
